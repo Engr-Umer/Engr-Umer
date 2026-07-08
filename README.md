@@ -1,5 +1,4 @@
-Here's a professional updated version:
-markdown# Muhammad Umer Mujahid
+# Muhammad Umer Mujahid
 ### Electrical Engineer | ML for Power Systems | IEEE Author
 
 B.Sc. Electrical Engineering — UET Taxila, Pakistan  
