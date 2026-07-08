@@ -1,12 +1,42 @@
-- 👋 Hi, I’m @Engr-Umer    
-- 👀 I’m interested in Machine Learning, nanotechnology and Automation
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on on ML, DS and AI projects
-- 📫 You can reach me through my LinkedIn Profile: https://www.linkedin.com/in/muhammad-umer-mujahid/
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am an happy
+Here's a professional updated version:
+markdown# Muhammad Umer Mujahid
+### Electrical Engineer | ML for Power Systems | IEEE Author
 
-<!---
-Engr-Umer/Engr-Umer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+B.Sc. Electrical Engineering — UET Taxila, Pakistan  
+Executive Electrical Engineer @ ACM Group of Industries  
+Applying for MASc in Electrical Engineering — Canada, Fall 2026
+
+---
+
+### About Me
+I work at the intersection of power systems engineering and machine learning.
+My research focuses on deep learning-based energy consumption forecasting 
+and anomaly detection in smart home systems.
+
+---
+
+### Research
+- **IEEE Published Paper (2025)** — Deep learning-based energy consumption 
+  prediction and anomaly detection in residential buildings
+- **Proposed Models** — Bi-LSTM and CNN-BiLSTM for short-term load forecasting
+- **Anomaly Detection** — Moving Average Filter for detecting irregular 
+  energy consumption patterns
+
+---
+
+### Skills
+**Machine Learning:** Python · PyTorch · Keras · Bi-LSTM · CNN · Time Series  
+**Power Systems:** MATLAB/Simulink · Power System Protection · Solar PV · HT/LT Systems  
+**Tools:** VS Code · Git · LaTeX · Overleaf
+
+---
+
+### Current Projects
+- 🔁 Reimplementing thesis architecture in PyTorch
+- 📊 Building energy forecasting portfolio on Kaggle
+- 🔬 Preparing for MASc research in power systems and AI
+
+---
+
+### Connect
+📧 umermujahidofficial@gmail.com  
