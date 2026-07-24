@@ -3,7 +3,7 @@
 
 B.Sc. Electrical Engineering — UET Taxila, Pakistan  
 Executive Electrical Engineer @ ACM Group of Industries  
-Applying for MASc in Electrical Engineering — Canada, Fall 2026
+Applying for MASc in Electrical Engineering
 
 ---
 
