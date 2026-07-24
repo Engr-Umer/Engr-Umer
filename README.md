@@ -1,41 +1,26 @@
 # Muhammad Umer Mujahid
-### Electrical Engineer | ML for Power Systems | IEEE Author
 
-B.Sc. Electrical Engineering — UET Taxila, Pakistan  
-Executive Electrical Engineer @ ACM Group of Industries  
-Applying for MASc in Electrical Engineering
+### Electrical Engineer | AI & Machine Learning Researcher | Energy Systems
 
----
+I am an Electrical Engineer and AI & Machine Learning researcher interested in developing intelligent, data-driven solutions for modern power and energy systems.
 
-### About Me
-I work at the intersection of power systems engineering and machine learning.
-My research focuses on deep learning-based energy consumption forecasting 
-and anomaly detection in smart home systems.
+My work sits at the intersection of:
 
----
+**Electrical Engineering | Artificial Intelligence | Machine Learning | Power Systems | Renewable Energy | Smart Grids | Intelligent Energy Management**
 
-### Research
-- **IEEE Published Paper (2025)** — Deep learning-based energy consumption 
-  prediction and anomaly detection in residential buildings
-- **Proposed Models** — Bi-LSTM and CNN-BiLSTM for short-term load forecasting
-- **Anomaly Detection** — Moving Average Filter for detecting irregular 
-  energy consumption patterns
+### 🔬 Research Interests
 
----
+**Machine Learning | Deep Learning | Load Forecasting | Energy Consumption Prediction | Renewable Energy Forecasting | Smart Home Energy Management | Battery Energy Storage | Anomaly Detection | Predictive Maintenance**
 
-### Skills
-**Machine Learning:** Python · PyTorch · Keras · Bi-LSTM · CNN · Time Series  
-**Power Systems:** MATLAB/Simulink · Power System Protection · Solar PV · HT/LT Systems  
-**Tools:** VS Code · Git · LaTeX · Overleaf
+### 🛠️ Technologies
 
----
+**Python | TensorFlow | Keras | PyTorch | Scikit-learn | Pandas | NumPy | MATLAB | Simulink**
 
-### Current Projects
-- 🔁 Reimplementing thesis architecture in PyTorch
-- 📊 Building energy forecasting portfolio on Kaggle
-- 🔬 Preparing for MASc research in power systems and AI
+### 🧠 Machine Learning & Deep Learning
 
----
+**LSTM | Bi-LSTM | CNN | CNN-BiLSTM | GRU | CNN-GRU | ANN | SVM | SVR | LightGBM | SARIMA**
+
+I am particularly interested in applying AI and Machine Learning to **Power Systems, Renewable Energy, Smart Grids, Energy Forecasting, and Sustainable Energy Management**.
 
 ### Connect
 📧 umermujahidofficial@gmail.com  
